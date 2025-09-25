@@ -4,8 +4,7 @@ ChatGPT’den yapısal destek ve açıklama yardımı alınmış; bazı açıkla
 
 Bazı cümlelerin kaynakları aşağıda belirtilmiştir:
 
-Data is the New Oil - Kenway Consulting
-
-Finansta Yapay Zeka Araştırması - KPMG Türkiye
+  -Data is the New Oil - Kenway Consulting
+  -Finansta Yapay Zeka Araştırması - KPMG Türkiye
   - https://kpmg.com/tr/tr/home/insights/2025/01/finansta-yapay-zeka-arastirmasi.html
 
