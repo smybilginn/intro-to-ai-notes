@@ -20,7 +20,7 @@ Bazı cümlelerin kaynakları aşağıda belirtilmiştir:
 8. **Derin Öğrenmeye Temel Bakış**  
 9. **Yapay Zeka Uygulama Alanları**  
 10. **Etik, Güvenlik ve Yapay Zeka Riskleri**  
-11. **Gelecek Trendler ve Yapay Zeka Potansiyeli**  
+ 
 ---
 
 
