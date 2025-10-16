@@ -1,5 +1,5 @@
 
-**Not**: Bu döküman, BTK Akademi **Kaan Can YILMAZ** hocamızın *Yapay Zekaya Giriş* kursu kapsamında verilen başlıklar temel alınarak hazırlanmıştır.
+**Not**: Bu döküman, BTK Akademi **Kaan Can YILMAZ** Hoca'nın *Yapay Zekaya Giriş* kursu kapsamında verilen başlıklar temel alınarak hazırlanmıştır.
 ChatGPT’den yapısal destek ve açıklama yardımı alınmış; bazı açıklamalar doğrudan eğitmenin ifadelerinden faydalanılarak düzenlenmiştir.
 Kurs sınavını başarıyla geçip aldığım sertifikam da eklenmiştir.
 
