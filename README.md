@@ -3,11 +3,6 @@
 ChatGPT’den yapısal destek ve açıklama yardımı alınmış; bazı açıklamalar doğrudan eğitmenin ifadelerinden faydalanılarak düzenlenmiştir.
 
 
-Bazı cümlelerin kaynakları aşağıda belirtilmiştir:
-- Data is the New Oil - Kenway Consulting
-- Finansta Yapay Zeka Araştırması - KPMG Türkiye
-- https://kpmg.com/tr/tr/home/insights/2025/01/finansta-yapay-zeka-arastirmasi.html
-
     ## 📚 Kurs İçeriği / Konu Başlıkları
 
 1. **Yapay Zekaya Giriş ve Temel Kavramlar**  
